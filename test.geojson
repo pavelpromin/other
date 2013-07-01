@@ -7,7 +7,21 @@
       },
       "properties": {
         "prop0": "value0",
-        "marker-color": "#FF0000"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0762, 57.4009]
+      },
+      "properties": {
+        "Station": "YARK",
+        "Location": "",
+        "Lat": "N57°24'03,56778",
+        "Lon": "E67°04'34,55808",
+        "Height": "45,258 m",
+        "Sensor type:": "TRIMBLE NETR9",
+        
       }
     }
   ]
