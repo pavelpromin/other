@@ -1,28 +1,455 @@
-{ "type": "FeatureCollection",
-  "features": [
-    { "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [70.4645, 56.2851]
-      },
-      "properties": {
-        "prop0": "value0"
-      }
-    },
-    { "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [67.0762, 57.4009]
-      },
-      "properties": {
-        "Station": "YARK",
-        "Location": "",
-        "Lat": "N57°24'03,56778",
-        "Lon": "E67°04'34,55808",
-        "Height": "45,258 m",
-        "Sensor type:": "TRIMBLE NETR9",
-        "Sensor type:": "http://ya.ru"
-      }
-    }
-  ]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.4645,
+                    56.2851
+                ]
+            },
+            "properties": {
+                "Station": "ARBT",
+                "Location": "",
+                "Lat": "N56°17'06,39311",
+                "Lon": "E70°27'52,28573",
+                "Height": "59,368 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.0762,
+                    57.4009
+                ]
+            },
+            "properties": {
+                "Station": "YARK",
+                "Location": "",
+                "Lat": "N57°24'03,56778",
+                "Lon": "E67°04'34,55808",
+                "Height": "45,258 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.6776,
+                    55.9413
+                ]
+            },
+            "properties": {
+                "Station": "ARMZ",
+                "Location": "",
+                "Lat": "N55°56'29,03940",
+                "Lon": "E67°40'39,44150",
+                "Height": "127,233 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.6468,
+                    56.8651
+                ]
+            },
+            "properties": {
+                "Station": "AROM",
+                "Location": "",
+                "Lat": "N56°51'54,36631",
+                "Lon": "E68°38'48,71387",
+                "Height": "73,499 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.3129,
+                    55.8049
+                ]
+            },
+            "properties": {
+                "Station": "BERD",
+                "Location": "",
+                "Lat": "N55°48'17,89558",
+                "Lon": "E68°18'46,46181",
+                "Height": "123,991 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.3278,
+                    59.5929
+                ]
+            },
+            "properties": {
+                "Station": "DEMN",
+                "Location": "",
+                "Lat": "N59°35'34,74332",
+                "Lon": "E69°19'40,39453",
+                "Height": "50,583 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9687,
+                    59.1022
+                ]
+            },
+            "properties": {
+                "Station": "KALH",
+                "Location": "",
+                "Lat": "N59°06'08,06716",
+                "Lon": "E69°58'07,45292",
+                "Height": "67,712 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2187,
+                    55.6449
+                ]
+            },
+            "properties": {
+                "Station": "KAZN",
+                "Location": "",
+                "Lat": "N55°38'41,79178",
+                "Lon": "E69°13'07,47636",
+                "Height": "77,046 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.1726,
+                    57.6728
+                ]
+            },
+            "properties": {
+                "Station": "NTAV",
+                "Location": "",
+                "Lat": "N57°40'22,33690",
+                "Lon": "E66°10'21,63779",
+                "Height": "48,328 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.6787,
+                    56.468
+                ]
+            },
+            "properties": {
+                "Station": "OMUT",
+                "Location": "",
+                "Lat": "N56°28'04,95246",
+                "Lon": "E67°40'43,59670",
+                "Height": "89,755 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.3345,
+                    55.5278
+                ]
+            },
+            "properties": {
+                "Station": "SLAD",
+                "Location": "",
+                "Lat": "N55°31'40,19939",
+                "Lon": "E70°20'04,54127",
+                "Height": "124,746 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.8105,
+                    56.636
+                ]
+            },
+            "properties": {
+                "Station": "SORK",
+                "Location": "",
+                "Lat": "N56°38'09,78170",
+                "Lon": "E69°48'37,95028",
+                "Height": "91,836 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.8839,
+                    59.0601
+                ]
+            },
+            "properties": {
+                "Station": "TAMN",
+                "Location": "",
+                "Lat": "N59°03'36,67054",
+                "Lon": "E71°53'02,29372",
+                "Height": "66,895 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.2808,
+                    58.2268
+                ]
+            },
+            "properties": {
+                "Station": "TOBL",
+                "Location": "",
+                "Lat": "N58°13'36,61033",
+                "Lon": "E68°16'51,07566",
+                "Height": "94,994 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.5446,
+                    57.1475
+                ]
+            },
+            "properties": {
+                "Station": "TUMN",
+                "Location": "",
+                "Lat": "N57°08'51,18904",
+                "Lon": "E65°32'40,79543",
+                "Height": "87,354 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.2676,
+                    56.3125
+                ]
+            },
+            "properties": {
+                "Station": "UPOR",
+                "Location": "",
+                "Lat": "N56°18'45,03687",
+                "Lon": "E66°16'03,54272",
+                "Height": "62,987 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.3914,
+                    56.8183
+                ]
+            },
+            "properties": {
+                "Station": "URGI",
+                "Location": "",
+                "Lat": "N56°49'06,11107",
+                "Lon": "E67°23'29,25252",
+                "Height": "99,782 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.9902,
+                    58.7059
+                ]
+            },
+            "properties": {
+                "Station": "UTEG",
+                "Location": "",
+                "Lat": "N58°42'21,34040",
+                "Lon": "E73°59'24,80391",
+                "Height": "70,359 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.9548,
+                    59.1404
+                ]
+            },
+            "properties": {
+                "Station": "UVAT",
+                "Location": "",
+                "Lat": "N59°08'25,55218",
+                "Lon": "E68°57'17,61877",
+                "Height": "46,084 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.4649,
+                    56.1014
+                ]
+            },
+            "properties": {
+                "Station": "ISIM",
+                "Location": "",
+                "Lat": "N56°06'05,34514",
+                "Lon": "E69°27'53,75075",
+                "Height": "80,085 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.3267,
+                    56.4758
+                ]
+            },
+            "properties": {
+                "Station": "ISET",
+                "Location": "",
+                "Lat": "N56°28'33,12044",
+                "Lon": "E65°19'36,24087",
+                "Height": "57,762 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.3763,
+                    56.3961
+                ]
+            },
+            "properties": {
+                "Station": "GOLM",
+                "Location": "",
+                "Lat": "N56°23'46,12366",
+                "Lon": "E68°22'34,77326",
+                "Height": "110,954 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.0226,
+                    57.9383
+                ]
+            },
+            "properties": {
+                "Station": "VAGA",
+                "Location": "",
+                "Lat": "N57°56'18,18089",
+                "Lon": "E69°01'21,46848",
+                "Height": "46,148 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.6138,
+                    56.8217
+                ]
+            },
+            "properties": {
+                "Station": "VIKU",
+                "Location": "",
+                "Lat": "N56°49'18,18832",
+                "Lon": "E70°36'49,95716",
+                "Height": "50,682 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.3188,
+                    56.6581
+                ]
+            },
+            "properties": {
+                "Station": "YALT",
+                "Location": "",
+                "Lat": "N56°39'29,42583",
+                "Lon": "E66°19'07,71028",
+                "Height": "59,356 m",
+                "Sensor type:": "TRIMBLE NETR9"
+            }
+        }
+    ]
 }
