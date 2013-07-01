@@ -2,10 +2,7 @@
   "features": [
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [70.464523, 56.285109]},
-      "properties": {
-        "prop0": "value0",
-        "marker-color": "#FF0000"
-      }
-    },
+      "properties": {"prop0": "value0","marker-color": "#FF0000"}
+    }
   ]
 }
