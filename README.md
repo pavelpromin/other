@@ -4,3 +4,21 @@ User/Project@SHA: mojombo/github-flavored-markdown@16c999e8c71134401a78d4d464355
 #Num: #1
 User#Num: mojombo#1
 User/Project#Num: mojombo/github-flavored-markdown#1
+
+
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+>! A multi-line spoiler  
+
+
+>! has ! multiple times
